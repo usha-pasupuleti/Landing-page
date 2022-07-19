@@ -83,16 +83,14 @@ body {
     filter: brightness(0.8);
 }
 
-/* .sourcesContainer {
+.sourcesContainer {
     color: rgb(248, 20, 20);
     position: absolute;
     left: 20em;
-} */
+}
 
 .link {
-    position:absolute;
-    left:15em;
-    top:20px;
+    position:relative;
     border: none;
     background: none;
     color:black;
